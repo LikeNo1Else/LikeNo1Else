@@ -1,4 +1,4 @@
-Hi, my name is Alexander. I'm currently studying python and data science related topics.
+Hi, my name is Alexander. 
 
 <!---
 LikeNo1Else/LikeNo1Else is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
